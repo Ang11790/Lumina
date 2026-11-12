@@ -1,0 +1,6 @@
+{
+  "name": "Galería Lumina - Arte, Eventos y Formación",
+  "description": "Prototipo funcional de la Galería de Arte Digital Lumina con arquitectura de información centrada en el usuario, catálogo de obras con simulador en pared, eventos culturales y cursos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
